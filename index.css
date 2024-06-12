@@ -3,7 +3,7 @@ body {
   margin: 0;
   padding: 0;
   font-family: "Rubik", sans-serif;
-  background-color: rgb(27, 20, 20);
+  background-color: rgb(118, 58, 68);
   color: white;
   user-select: none;
 }
@@ -68,7 +68,7 @@ ul li {
 }
 
 ul li:hover {
-  background-color: blue;
+  background-color: rgb(59, 59, 63);
   cursor: pointer;
   color: wheat;
 }
